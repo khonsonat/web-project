@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Koulen&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Koulen", sans-serif;
+}
+.about-title ,a{
+    text-decoration: none;
+    color:hsl(327, 23%, 92%);
+}
+.card{
+    border-radius: 6px;
+    transition: all 400ms ease;
+}
+.card:hover{
+    box-shadow: 5px 5px 20px #9a7585;
+    transform: translateY(5%);
+}
+.btn:hover{
+    background-color: #4a081c;
+}
+.btn:hover{
+    background-color: #cc3533;
+}
+  
+
+
+
+      
